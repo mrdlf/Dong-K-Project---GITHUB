@@ -1,0 +1,8 @@
+C:\Users\Dong Kieu\source\repos\CreatePresentation\CreatePresentation\bin\Debug\CreatePresentation.exe.config
+C:\Users\Dong Kieu\source\repos\CreatePresentation\CreatePresentation\bin\Debug\CreatePresentation.exe
+C:\Users\Dong Kieu\source\repos\CreatePresentation\CreatePresentation\bin\Debug\CreatePresentation.pdb
+C:\Users\Dong Kieu\source\repos\CreatePresentation\CreatePresentation\obj\Debug\Interop.Microsoft.VisualStudio.CommandBars.dll
+C:\Users\Dong Kieu\source\repos\CreatePresentation\CreatePresentation\obj\Debug\CreatePresentation.csproj.ResolveComReference.cache
+C:\Users\Dong Kieu\source\repos\CreatePresentation\CreatePresentation\obj\Debug\CreatePresentation.csproj.CoreCompileInputs.cache
+C:\Users\Dong Kieu\source\repos\CreatePresentation\CreatePresentation\obj\Debug\CreatePresentation.exe
+C:\Users\Dong Kieu\source\repos\CreatePresentation\CreatePresentation\obj\Debug\CreatePresentation.pdb
